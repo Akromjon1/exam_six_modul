@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "433797492705",
+    "firebase_url": "https://exam-6-modul-default-rtdb.firebaseio.com",
+    "project_id": "exam-6-modul",
+    "storage_bucket": "exam-6-modul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433797492705:android:e538aa84ddb0b30eceeca0",
+        "android_client_info": {
+          "package_name": "com.example.exam_six_modul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433797492705-i85mh9u1cr4v0tdp3o3mgrtej0blto26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeRQL7IRN5jQSYryQzd8M8Gi_YokFSJX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433797492705-i85mh9u1cr4v0tdp3o3mgrtej0blto26.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "433797492705-ck63imo6nfmfheof5fra4m9fp71m450p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.examSixModul"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

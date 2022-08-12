@@ -1,0 +1,40 @@
+name: exam_six_modul
+description: A new project for exam
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^1.20.1
+  firebase_crashlytics: ^2.8.7
+  firebase_remote_config: ^2.0.14
+  firebase_auth: ^3.6.3
+  hive_flutter: ^1.1.0
+  firebase_database: ^9.1.1
+  firebase_storage: ^10.3.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
